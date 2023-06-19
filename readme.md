@@ -37,6 +37,7 @@
 ```mermaid
 graph TD;
 A[untracked]--git add-->B[staged+tracked]
+C[modified]--git add-->B
 ```
 
 
