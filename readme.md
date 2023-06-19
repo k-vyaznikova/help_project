@@ -35,7 +35,8 @@
 
 ## Статусы файлов в git
 ```mermaid
-A[новый файл в проекте  - untracked]
+graph TD;
+A[untracked]-->B[staged+tracked]
 ```
 
 
