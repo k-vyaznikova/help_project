@@ -40,7 +40,7 @@ A[untracked]--git add-->B[staged+tracked]
 C[modified]--git add-->B
 B--изменения-->C
 B--git commit-->D[tracked]
-D--изменения-->С
+D--изменения-->C
 ```
 
 
