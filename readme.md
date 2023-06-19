@@ -36,7 +36,7 @@
 ## Статусы файлов в git
 ```mermaid
 graph TD;
-A[untracked]-->B[staged+tracked]
+A[untracked]--git add-->B[staged+tracked]
 ```
 
 
